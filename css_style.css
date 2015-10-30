@@ -1,0 +1,75 @@
+	body {
+		text-align: center;
+		background: url("imgs/footer_lodyas.png");
+		color: white;
+		margin: 0px;
+		font-family: 'Raleway', sans-serif;
+	}
+
+	.nav {
+		background: #3a3633;
+		top: 0px;
+		position: fixed;
+		height: 4rem;
+		width: 100%;
+		z-index: 1;
+	}
+
+	.black {
+		background: #3a3633;
+		height: 70rem;
+		width: 100%;
+	}
+
+	.white {
+		background: #ffffff;	
+		height: 37.6rem;
+		width: 100%;
+	}
+
+	.logo {
+		position: center;
+		width: 15rem;
+		height: auto;
+		z-index: 1;
+	}
+
+	.header-img {
+		margin-top: 4rem;
+		left: 0;
+		max-width: 100%;
+ 		height: auto;
+    	position: absolute;
+	}
+
+	.info {
+		position: absolute;
+		top: 2rem;
+		right: 2.5rem;
+		max-width:35%;
+	}
+
+	.search-panel{
+		background: #ffffff;
+		margin: 250px;
+		padding: 50px;
+		color: black;
+	}
+	#footer {
+		color: white;
+		font-size: 10px;
+		position: absolute;
+		left: 630px;
+		bottom: 10px;
+	}
+
+	h1, h2, h3{
+		font-family: Raleway;
+	}
+
+	.search-input, .search-button{
+		font-size: 20px;
+		padding: 5px;
+		margin: 10px;
+		border-radius: 5px;
+	}
