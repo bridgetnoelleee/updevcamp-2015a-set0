@@ -54,3 +54,20 @@
 		top: 36.6rem;
 		left: 0;
 	}
+
+	.footer {
+		position: absolute;	
+		bottom: 0;
+		background: url("footer_lodyas.png");
+		height: 7rem;
+		width: 100%;
+		margin-bottom: -60rem;
+	}
+
+	.foot {
+		margin-top: 44.6rem;
+		height: 20rem;
+		left: 1rem;
+		max-width: 100%;
+		position: absolute; 
+	}
